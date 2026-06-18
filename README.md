@@ -114,7 +114,7 @@ const sumit = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sumit1894&theme=nord&no-frame=true&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumit1894&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -138,7 +138,7 @@ const sumit = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit_Prasad-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sumit1894)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit_Prasad-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumit-prasad-36367b325/)
 [![GitHub](https://img.shields.io/badge/GitHub-sumit1894-181717?style=flat-square&logo=github)](https://github.com/sumit1894)
 [![Email](https://img.shields.io/badge/Email-sumitprasad1971@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitprasad1971@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_8927297245-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918927297245)
