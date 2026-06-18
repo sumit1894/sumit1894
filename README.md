@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sumit+Prasad+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Building+real-world+apps+%F0%9F%9A%80;Final+Year+CS+Student+%40+SAITM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sumit+Prasad+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Building+real-world+apps+%F0%9F%9A%80;CS+Graduate+%40+SAITM+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=sumit1894&color=58a6ff&style=flat&label=Profile+Views)
 
