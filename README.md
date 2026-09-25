@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const sumit = {
@@ -27,7 +27,7 @@ const sumit = {
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -62,9 +62,9 @@ const sumit = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔗 URL Shortener with Auth System
+### URL Shortener with Auth System
 > Node.js · Express.js · MySQL · Drizzle ORM · JWT · OAuth2 · EJS · Multer · Zod
 
 - Full-stack URL shortener with secure authentication (JWT + OAuth2 + sessions)
@@ -74,7 +74,7 @@ const sumit = {
 
 ---
 
-### 📚 Book Store with Admin Panel
+### Book Store with Admin Panel
 > MongoDB · Express.js · React.js · Node.js · JWT · Tailwind CSS
 
 - MERN stack app with JWT auth and role-based access (Admin / User)
@@ -83,7 +83,7 @@ const sumit = {
 
 ---
 
-### 🎤 AI Interview Coach
+###  AI Interview Coach
 > HTML · CSS · JavaScript · Web Speech API · REST API
 
 - Voice-based interview simulator for HR & technical practice
@@ -93,7 +93,7 @@ const sumit = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -111,7 +111,7 @@ const sumit = {
 ---
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -125,7 +125,7 @@ const sumit = {
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -142,6 +142,6 @@ const sumit = {
 
 *"Passionate about learning new technologies through real-world projects and practical problem-solving"*
 
-⭐ If you like my work, give my repos a star!
+ If you like my work, give my repos a star!
 
 </div>
